@@ -1,0 +1,52 @@
+{
+  "jobs": [
+    {
+      "name": "Senior UI/UX Designer",
+      "company": { "name": "Amazon", "logo": "" },
+      "tags": ["part time", "senior level", "distant", "project work"],
+      "pay": "250",
+      "jobDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore libero perferendis optio, obcaecati dolorem sapiente veritatis beatae enim molestiae exercitationem laudantium ipsum, eveniet debitis totam sunt ipsa facere praesentium culpa expedita nostrum aliquam? Laborum reprehenderit voluptatum rerum. Totam, voluptate nisi pariatur officia provident quas aliquid ducimus hic voluptates, voluptas quasi."
+    },
+    {
+      "name": "Junior UI/UX Designer",
+      "company": { "name": "Google", "logo": "" },
+      "tags": [
+        "full time",
+        "junior level",
+        "distant",
+        "project work",
+        "flexible schedule"
+      ],
+      "pay": "150",
+      "jobDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore libero perferendis optio, obcaecati dolorem sapiente veritatis beatae enim molestiae exercitationem laudantium ipsum, eveniet debitis totam sunt ipsa facere praesentium culpa expedita nostrum aliquam? Laborum reprehenderit voluptatum rerum. Totam, voluptate nisi pariatur officia provident quas aliquid ducimus hic voluptates, voluptas quasi."
+    },
+    {
+      "name": "Senior Motion Designer",
+      "company": { "name": "Dribble", "logo": "" },
+      "tags": ["part time", "senior level", "full day", "shift work"],
+      "pay": "260",
+      "jobDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore libero perferendis optio, obcaecati dolorem sapiente veritatis beatae enim molestiae exercitationem laudantium ipsum, eveniet debitis totam sunt ipsa facere praesentium culpa expedita nostrum aliquam? Laborum reprehenderit voluptatum rerum. Totam, voluptate nisi pariatur officia provident quas aliquid ducimus hic voluptates, voluptas quasi."
+    },
+    {
+      "name": "UX Designer",
+      "company": { "name": "Twitter", "logo": "" },
+      "tags": ["full time", "middle level", "distant", "project work"],
+      "pay": "120",
+      "jobDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore libero perferendis optio, obcaecati dolorem sapiente veritatis beatae enim molestiae exercitationem laudantium ipsum, eveniet debitis totam sunt ipsa facere praesentium culpa expedita nostrum aliquam? Laborum reprehenderit voluptatum rerum. Totam, voluptate nisi pariatur officia provident quas aliquid ducimus hic voluptates, voluptas quasi."
+    },
+    {
+      "name": "Graphic Designer",
+      "company": { "name": "Airbnb", "logo": "" },
+      "tags": ["part time", "senior level"],
+      "pay": "300",
+      "jobDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore libero perferendis optio, obcaecati dolorem sapiente veritatis beatae enim molestiae exercitationem laudantium ipsum, eveniet debitis totam sunt ipsa facere praesentium culpa expedita nostrum aliquam? Laborum reprehenderit voluptatum rerum. Totam, voluptate nisi pariatur officia provident quas aliquid ducimus hic voluptates, voluptas quasi."
+    },
+    {
+      "name": "Graphic Designer",
+      "company": { "name": "Apple", "logo": "" },
+      "tags": ["part time", "senior level"],
+      "pay": "140",
+      "jobDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore libero perferendis optio, obcaecati dolorem sapiente veritatis beatae enim molestiae exercitationem laudantium ipsum, eveniet debitis totam sunt ipsa facere praesentium culpa expedita nostrum aliquam? Laborum reprehenderit voluptatum rerum. Totam, voluptate nisi pariatur officia provident quas aliquid ducimus hic voluptates, voluptas quasi."
+    }
+  ]
+}
